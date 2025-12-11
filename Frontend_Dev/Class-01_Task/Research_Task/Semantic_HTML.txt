@@ -1,0 +1,45 @@
+# Research Task: Semantic HTML Benefits
+Answer in your own words:
+-> What is semantic HTML?
+-> Why use <header> instead of <div class="header">?
+-> How does semantic HTML help with:
+-> SEO (Search Engine Optimization)?
+-> Accessibility?
+-> Code Maintenance?
+
+Answer: 
+
+Definition:
+    Semantic HTML refers to using HTML elements that have meaningful names describing their purpose and content,
+    rather than generic containers like <div> or <span>. These elements clearly indicate the role of the content
+    to both browsers and developers. This improves readability, structure, and understanding of web pages for
+    humans and machines alike. Examples include <header>, <footer>, <article>, and <nav>.
+
+Benefits Comparison:
+
+SEO:
+
+Search engines can better understand the content and structure of a webpage, which can improve ranking.
+
+Important content can be highlighted through proper semantic tags, making indexing more accurate.
+
+
+Accessibility:
+
+Screen readers and assistive technologies can interpret the content more effectively.
+
+Users with disabilities can navigate and understand the page structure more easily.
+
+
+Maintenance:
+
+Code is more readable and organized, making updates and debugging faster.
+
+Future developers can quickly understand the purpose of each section without extensive comments.
+
+
+Example Tags:
+
+Structural: <header>, <footer>, <nav>, <article>, <section>
+
+Text-level: <strong>, <em>, <mark>
